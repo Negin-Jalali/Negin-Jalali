@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning JS intermediate and Interested in FrontEnd, Apps, and AI section to learn
+I'm currently learning JS mid-lev and React start-lev and Interested in FrontEnd, Apps, and AI section to learn
 
 
 ## 🌐 Socials:
